@@ -1,2 +1,2 @@
 # GO-FULLSTACK
-Cours OpenClassroom node;js, express, mongoDB
+Cours OpenClassroom node.js, express, mongoDB
